@@ -12,7 +12,7 @@
 
 #### Profile:
 
-- 🔭 I’m a student in Cubos Academy (Software Development School)
+- 🔭 I’m a student at Cubos Academy (Software Development School)
 
 - 🌱 I’m currently learning Javascript and Backend Development
 
