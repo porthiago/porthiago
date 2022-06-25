@@ -1,4 +1,4 @@
-### Hi there! I'm Thiago Porto! 👋
+### Welcome! I'm Thiago Porto! 😁
 
 #### Technologies:
 
