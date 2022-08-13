@@ -1,6 +1,6 @@
 ### Welcome! I'm Thiago Porto! 😁
 
-#### Technologies:
+### Technologies:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="nodejs" height="" width="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -10,21 +10,12 @@
   <img align="center" alt="arduino" height=" width="" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div>
 
-#### Profile:
+### Profile:
 
-- 🔭 I’m a student at Cubos Academy (Software Development School)
+Backend Developer engaged in using technology to transform the world.
 
-- 🌱 I’m currently learning Javascript and Backend Development
 
-- ⚡ Fun facts: 🧘🏾 meditation lover, ☸️ buddhist wannabe, 🟩 arduino hobbyist , ☠️ one piece fan, 🌟 steven universe admirer, 😂 brazilian soap operas viewer in some free time
-- 📫 How to reach me: porthiago@gmail.com
-
-<div align="center">
-  <a href="https://github.com/porthiago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=porthiago&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-</div>
-
-##
+### Contacts:
   
 <div> 
  <a href="https://discord.com/users/ThiagoPorto#2264" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
