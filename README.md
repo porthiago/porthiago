@@ -1,7 +1,6 @@
 # Hey! I'm Thiago Porto! A backend developer. Welcome!
 
 ## Main Tech Tools:
-          
 
 <div style="display: inline_block">
   <img align="center" alt="nodejs" height="" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> ‎ 
