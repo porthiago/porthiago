@@ -1,5 +1,8 @@
 # Hey! I'm Thiago Porto! A backend developer. Welcome!
 
+- Extremely passionate about using technology to transform the world
+- Getting all the craziest stuff of my mind to transcript as code
+
 ## Main Tech Tools:
 
 <div style="display: inline_block">
