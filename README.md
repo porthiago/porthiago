@@ -1,19 +1,19 @@
 ### Welcome! I'm Thiago Porto! 😁
 
-### Technologies:
+### Profile:
+
+Backend Developer engaged in using technology to transform the world.
+
+### Main Tech Tools:
           
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="nodejs" height="" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="javascript" height="" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="postgres" height="" width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="express" height="" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />       
   <img align="center" alt="arduino" height="" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />        
 </div>
-
-### Profile:
-
-Backend Developer engaged in using technology to transform the world.
 
 
 ### Contacts:
