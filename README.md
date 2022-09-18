@@ -1,6 +1,6 @@
-### Hey! I'm Thiago Porto! A backend developer. Welcome!
+# Hey! I'm Thiago Porto! A backend developer. Welcome!
 
-### Main Tech Tools:
+## Main Tech Tools:
           
 
 <div style="display: inline_block">
@@ -12,7 +12,7 @@
 </div>
 
 
-### Contacts:
+## Contacts:
   
 <div> 
  <a href="https://discord.com/users/ThiagoPorto#2264" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
