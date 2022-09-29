@@ -1,9 +1,9 @@
-# Hey! I'm Thiago Porto! A backend developer. Welcome!
+# Desenvolvedor Backend 👨‍💻
 
-- Extremely passionate about using technology to transform the world
-- Taking out all the craziest stuff of my mind to transcript as code
+- Extremamente apaixonado pelo uso da tecnologia para transformar positvamente o mundo
+- Transformando as coisas mais loucas que se passam na minha mente em código
 
-## Main Tech Tools:
+## Principais Ferramentas:
 
 <div style="display: inline_block">
   <img align="center" alt="nodejs" height="" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> ‎ 
@@ -14,7 +14,7 @@
 </div>
 
 
-## Contacts:
+## Contato:
   
 <div> 
  <a href="https://discord.com/users/ThiagoPorto#2264" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
